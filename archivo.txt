@@ -12,5 +12,3 @@ Pasos para Contribuir:
 Clona el repositorio.
 Crea una nueva rama para tus cambios.
 Realiza los cambios y realiza confirmaciones frecuentemente.
-
-hola
